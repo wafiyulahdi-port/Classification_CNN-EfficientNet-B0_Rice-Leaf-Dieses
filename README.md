@@ -1,4 +1,4 @@
-# Python_Classification_CNN-EfficientNet-B0
+# Classification_CNN-EfficientNet-B0_Rice Leaf Dieses
 This repository contains an experimental deep learning workflow for scene classification using a Convolutional Neural Network (CNN) for classificate paddy leaf dieses. The project explores the impact of data augmentation, hyperparameter autotuning, and k-fold cross-validation on model performance. This is 2023 Project
 
 The training was conducted using RMSProp optimizer with a learning rate of 0.001, and the final model was trained for approximately 40–30 epochs based on autotuned settings.
